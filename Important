@@ -1,0 +1,1 @@
+It send a arp request to your router then you can sniff the arp request with wireshark or wlcap. You can download wlcap on my github page I programming wlcap for asks ask me in the comments but the command for wlcap is then:  "python3 wlcap.py --thread 14 --crypto Scapy --filter arp"
